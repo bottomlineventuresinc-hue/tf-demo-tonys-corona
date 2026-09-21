@@ -1,0 +1,11 @@
+PHOTO SOURCES — hs-023-tonys Tony's Plumbing & Rooter (Wave 5 2026-09-21 PT)
+Commercial-ok Unsplash/Pexels (and prior Wave verified library). Verified by opening each file. No owner stock face.
+
+hero-site.jpg — hands on residential plumbing pipes (Pexels verified; NOT window cleaner)
+services-trade.jpg — residential plumbing pipes (verified)
+job041-* — pipe/fitting B/A typical (verified)
+job-elec-* slots — bathroom faucet fixtures + under-sink (verified)
+job052-* — water heater / sewer drain typical (verified wave4 library)
+people-* — tools/toolbox/crew — NOT owner face
+coverage-house.jpg — residential exterior
+Rejected downloads: window-cleaner Unsplash, welder Unsplash, drywall mislabel — not used
