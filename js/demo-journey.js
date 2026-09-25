@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Plumbing, water heaters, and sewer and drain work. Across Corona and the Inland Empire. Anthony looks at the job first and puts the price in writing.';
+            'Plumbing, water heaters, and sewer and drain work in Corona. Anthony looks at the job first and puts the price in writing.';
         }
       }
     },
