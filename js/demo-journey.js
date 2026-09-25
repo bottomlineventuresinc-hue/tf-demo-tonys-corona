@@ -1,4 +1,4 @@
-/* Template Factory - Tony's Plumbing &amp; Rooter live demo journey.
+/* Template Factory - Tony's Plumbing & Rooter live demo journey.
    Client-side simulate only. No real AI, SMS, or backend. */
 (function () {
   'use strict';
@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Plumbing repair, water heater work, and sewer and drain clearing across Corona and the Inland Empire. You get a fixed itemised quote before we start, Anthony as your named lead on site, and a twelve-month workmanship guarantee when we leave.';
+            'Plumbing, water heaters, and sewer and drain work. Across Corona and the Inland Empire. Anthony looks at the job first and puts the price in writing.';
         }
       }
     },
@@ -65,7 +65,7 @@
       id: 'h1',
       apply: function () {
         if (heroH) {
-          heroH.innerHTML = 'Plumbing and sprinklers,<br>quoted <em>before</em> we start.';
+          heroH.innerHTML = 'Corona plumbing,<br>drains, and water heaters,<br>priced <em>first.</em>';
         }
       }
     },
@@ -73,7 +73,7 @@
       id: 'service',
       apply: function () {
         if (serviceFirst) {
-          serviceFirst.textContent = 'Plumbing repair (written programme)';
+          serviceFirst.textContent = 'Drain cleaning and rooter (written price)';
         }
       }
     }
@@ -85,9 +85,9 @@
     /* mode: draft | updated */
     if (!barSub) return;
     if (mode === 'updated') {
-      barSub.textContent = 'Draft for Anthony at Tony's Plumbing &amp; Rooter. Claim it, preview the rest of the journey, or request a change.';
+      barSub.textContent = 'Draft for Anthony at Tony\'s Plumbing & Rooter. Claim it, preview the rest of the journey, or request a change.';
     } else {
-      barSub.textContent = 'Draft for Anthony George Yanis at Tony's Plumbing &amp; Rooter. Claim it, preview the rest of the journey, or request a change.';
+      barSub.textContent = 'Draft for Anthony at Tony\'s Plumbing & Rooter. Claim it, preview the rest of the journey, or request a change.';
     }
   }
 
@@ -158,7 +158,7 @@
       var delay = 2500 + Math.floor(Math.random() * 1500);
       runSpinner(
         'Working on updates to your site…',
-        'Updating the draft for Tony's Plumbing &amp; Rooter. Hang tight.',
+        'Updating the draft for Tony\'s Plumbing & Rooter. Hang tight.',
         delay,
         function () {
           var editId = applyNextEdit();

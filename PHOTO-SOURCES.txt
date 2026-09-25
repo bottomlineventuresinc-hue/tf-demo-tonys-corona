@@ -1,11 +1,20 @@
-PHOTO SOURCES — hs-023-tonys Tony's Plumbing & Rooter (Wave 5 2026-09-21 PT)
-Commercial-ok Unsplash/Pexels (and prior Wave verified library). Verified by opening each file. No owner stock face.
+PHOTO SOURCES · hs-023-tonys Tony's Plumbing & Rooter (CR 2026-09-25b PT rebuild)
+All CC0 / public domain (StockSnap, rawpixel CC0, WordPress Photos CC0, Flickr CC0/PDM via Openverse) or prior verified Wave library.
+Every file opened and checked for trade fit and job-label fit. No face is used or captioned as the owner or crew.
+Sample B/A photos are labeled on page as stock images typical of this kind of job.
 
-hero-site.jpg — hands on residential plumbing pipes (Pexels verified; NOT window cleaner)
-services-trade.jpg — residential plumbing pipes (verified)
-job041-* — pipe/fitting B/A typical (verified)
-job-elec-* slots — bathroom faucet fixtures + under-sink (verified)
-job052-* — water heater / sewer drain typical (verified wave4 library)
-people-* — tools/toolbox/crew — NOT owner face
-coverage-house.jpg — residential exterior
-Rejected downloads: window-cleaner Unsplash, welder Unsplash, drywall mislabel — not used
+hero-site.jpg <- wave11/plumb-wrenches-pipe.jpg : pipe wrenches on a pipe (rawpixel CC0 5904346)
+services-trade.jpg <- wave11/copper-valves-filter.jpg : copper supply lines with red ball valves and a filter housing (rawpixel CC0 6041215)
+people-crew.jpg <- wave11/tools-wrenches-wood.jpg : wrenches on a wood bench (Flickr CC0 32708495171)
+people-marek.jpg <- wave11/plumb-under-sink-hands.jpg : hands fitting a supply line under a sink, no face (prior verified library wave2/under-sink.jpg)
+people-tom.jpg <- wave11/faucet-glass-water.jpg : glass filling at a kitchen faucet, hand only (Flickr CC0 51487313271)
+coverage-house.jpg <- wave11/house-dusk.jpg : two-story suburban home at dusk (StockSnap CC0 LJ515CPAKI)
+tools-ratchet.jpg <- wave11/tools-ratchet.jpg : ratchet sockets close-up (StockSnap CC0 4RHOB6RC3S)
+shower-valve-tile.jpg <- wave11/shower-valve-tile.jpg : tiled shower with valve and hand shower (rawpixel CC0 5902607)
+utility-sink.jpg <- wave11/utility-sink.jpg : utility sink with faucet (Flickr CC0 95565646)
+kitchen-sink-window.jpg <- wave11/kitchen-sink-window.jpg : kitchen sink by a window (Flickr CC0 160444800)
+tools-wrenches-dark.jpg <- wave11/tools-wrenches-dark.jpg : wrench set, dark background (StockSnap CC0 F91K0WLE2D)
+wh-basement-tank.jpg <- wave11/wh-basement-tank.jpg : tank water heater in a utility room (Flickr PDM 17715613311)
+
+Replaced from the prior build: all photos (prior library had mislabeled trade images and stock faces).
+Note: tonysplumbing.com is a Modesto firm, NOT linked or offered. No license number on page.
